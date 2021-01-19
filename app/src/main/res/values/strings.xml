@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SFCSapp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SMART FOOD COURT SYSTEM</string>
+    <string name="nav_header_subtitle">Ho Chi Minh University Of Technology</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_menu">Categories</string>
+    <string name="menu_signout">Sign Out</string>
+    <string name="menu_cart">Order Food</string>
+    <string name="menu_food_list">Food List</string>
+    <string name="menu_food_detail">Food Detail</string>
+
+    <string name="popular_categories">Popular Categories</string>
+    <string name="best_deals">Best Deals</string>
+
+    <string name="slogan">Welcome to Summoner Rift</string>
+
+    <string name="size">Size</string>
+    <string name="add_on">Add on</string>
+    <string name="action_clear_cart">Clear cart</string>
+</resources>

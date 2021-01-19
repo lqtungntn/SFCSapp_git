@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59546811079",
+    "firebase_url": "https://sfcs-2.firebaseio.com",
+    "project_id": "sfcs-2",
+    "storage_bucket": "sfcs-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59546811079:android:3ecd5907e7c7cbf5b15ce2",
+        "android_client_info": {
+          "package_name": "com.example.sfcsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59546811079-sepobhvnbkrg3rr452v8em63of7fo379.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc9Gg8hvTjK9hst2j-OjUPqrXv5e3n0Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59546811079-sepobhvnbkrg3rr452v8em63of7fo379.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
